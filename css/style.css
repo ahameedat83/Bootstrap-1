@@ -1,0 +1,6 @@
+.card{
+    box-shadow: 14px 22px 32px 1px rgba(168,156,168,1);
+
+}
+.card:hover{ box-shadow: 28px 28px 15px -14px rgba(41,40,41,1);}
+.bady{ border-block-color: #f6f9fa ;}
